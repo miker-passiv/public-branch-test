@@ -47,7 +47,7 @@ name: 'Terraform'
 
 on:
   push:
-    branches: [ "Integration DB" ]
+    branches: [ "Integration-DB" ]
   pull_request:
 
 permissions:
